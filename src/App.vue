@@ -4,6 +4,7 @@
       <Banner/>
       <players/>
       <About/>
+      
       <Contact/>
   </div>
 </template>
@@ -32,5 +33,7 @@ export default {
 
   body {
     background-color: #020202;
-  }
+  };
+
+
 </style>
