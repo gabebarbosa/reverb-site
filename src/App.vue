@@ -1,10 +1,21 @@
 <template>
-  <div id="app">
+  <div id="app" class="container row">
     <!-- <HelloWorld msg="Welcome to Your Vue.js App"/> -->
-    <Banner/>
-    <players/>
-    <About/>
-    <Contact/>
+    <div class="col-12">
+      <Banner/>
+    </div>
+
+    <div class="col-12">
+      <players/>
+    </div>
+    
+    <div class="col-12"> 
+      <About/>
+    </div>
+
+    <div class="col-12">
+      <Contact/>
+    </div>
   </div>
 </template>
 
@@ -29,12 +40,8 @@ export default {
 
 <style>
 @import '../node_modules/bootstrap/dist/css/bootstrap.css';
-#app {
-  font-family: 'Avenir', Helvetica, Arial, sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-  text-align: center;
-  color: #2c3e50;
-  margin-top: 60px;
-}
+
+  body {
+    background-color: #020202;
+  }
 </style>
