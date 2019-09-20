@@ -1,6 +1,7 @@
 <template>
   <div id="banner">
     <img src="../assets/banner.png">
+    
   </div>
 </template>
 
@@ -11,4 +12,7 @@ export default {
 </script>
 
 <style scoped>
+img {
+  max-width: 100%;
+}
 </style>

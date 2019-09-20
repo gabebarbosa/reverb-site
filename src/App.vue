@@ -1,21 +1,10 @@
 <template>
-  <div id="app" class="container row">
+  <div id="app" class="">
     <!-- <HelloWorld msg="Welcome to Your Vue.js App"/> -->
-    <div class="col-12">
       <Banner/>
-    </div>
-
-    <div class="col-12">
       <players/>
-    </div>
-    
-    <div class="col-12"> 
       <About/>
-    </div>
-
-    <div class="col-12">
       <Contact/>
-    </div>
   </div>
 </template>
 
