@@ -32,7 +32,7 @@ export default {
 @import '../node_modules/bootstrap/dist/css/bootstrap.css';
 
   body {
-    background-color: #020202;
+    background: #020202;
   };
 
 
