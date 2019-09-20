@@ -1,11 +1,13 @@
 <template>
-  <div id="app" class="container">
-    <!-- <HelloWorld msg="Welcome to Your Vue.js App"/> -->
+  <div id="app">
+    <body>
       <Banner/>
+      
       <players/>
       <About/>
       
       <Contact/>
+    </body>      
   </div>
 </template>
 
@@ -32,8 +34,8 @@ export default {
 @import '../node_modules/bootstrap/dist/css/bootstrap.css';
 
   body {
-    background: #020202 !important;
-     background-size:cover;
+      background: #020202 !important;
+      background-size:cover;
   };
 
 
