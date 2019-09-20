@@ -1,5 +1,5 @@
 <template>
-  <div id="app" class="">
+  <div id="app" class="container">
     <!-- <HelloWorld msg="Welcome to Your Vue.js App"/> -->
       <Banner/>
       <players/>
@@ -32,7 +32,8 @@ export default {
 @import '../node_modules/bootstrap/dist/css/bootstrap.css';
 
   body {
-    background: #020202;
+    background: #020202 !important;
+     background-size:cover;
   };
 
 
