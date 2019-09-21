@@ -5,7 +5,7 @@
         <img src="../assets/_texto.png">
       </div>
       <div class="col-4 text-center">
-        <h5 class="text-color-reverb">ENTRE EM CONTATO <i class="fa fa-camera"></i> </h5>
+        <h5 class="text-color-reverb">ENTRE EM CONTATO <i class="fa fa-camera"></i></h5>
       </div>
       <div class="col-4 text-center">
         <h5 class="text-color-reverb">SOCIAL</h5>
