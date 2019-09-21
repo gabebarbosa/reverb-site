@@ -1,26 +1,21 @@
 <template>
   <div id="contact">
     <div class="row pt-3 pb-3">
-      <div class="col-4 text-center">
+      <div class="col-md-2 text-center">
         <img src="../assets/_texto.png">
       </div>
-      <div class="col-4 text-center">
-        <p class="text-color-reverb mt-0 mb-0">ENTRE EM CONTATO</p>
-        <p class="text-light mt-0 mb-0">Fale com a gente</p>
+      <div class="col-md-5 text-center">
+        <p class="text-color-reverb mt-0 mb-0">CONTATO</p>
         <p class="text-light mt-0 mb-0">
           <i class="fa fa-envelope" aria-hidden="true"></i>
           contato.reverb.esports@gmail.com
         </p>
       </div>
-      <div class="col-4 text-center">
+      <div class="col-md-5 text-center">
         <p class="text-color-reverb mt-0 mb-0">SOCIAL</p>
         <p class="text-light mt-0 mb-0">
-          <i class="fa fa-instagram" aria-hidden="true"></i>
-          @reverbesports
-        </p>
-        <p class="text-light mt-0 mb-0">
-          <i class="fa fa-twitter" aria-hidden="true"></i>
-          @reverbEsports
+          <a href="https://www.instagram.com/reverbesports" target="_blank"><i class="fa fa-instagram" aria-hidden="true"></i></a>
+          <a href="https://www.twitter.com/reverbesports" target="_blank"><i class="fa fa-twitter pl-2" aria-hidden="true"></i></a>
         </p>
       </div>
     </div>
@@ -35,6 +30,6 @@ export default {
 
 <style scoped>
 img {
-  max-width: 35%;
+  max-width: 50%;
 }
 </style>

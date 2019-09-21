@@ -4,7 +4,7 @@
       <div class="card-body">
         <!-- <h5 class="text-color-reverb">O TIME</h5> -->
         <div class="row">
-          <div class="col-3" v-for="t in team" :key="t.nome">
+          <div class="col-md-3" v-for="t in team" :key="t.nome">
             <div class="card m-1">
               <div class="card-body">
                 <h5 class="text-color-reverb mb-0 pb-0">{{t.nick}}</h5>
