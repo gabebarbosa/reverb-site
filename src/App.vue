@@ -1,5 +1,5 @@
 <template>
-  <div id="app" class="container">
+  <div id="app">
     <Banner/>
     
     <!-- <players/>
@@ -32,7 +32,7 @@ export default {
 @import '../node_modules/bootstrap/dist/css/bootstrap.css';
 
   body {
-      background: #f2f2f2 !important;
+      background-color: #030303 !important;
       background-size:cover;
   }
 
@@ -41,8 +41,8 @@ export default {
     left: 0;
     bottom: 0;
     width: 100%;
-    background-color: #030303;
     text-align: center;
+    background-color: #030303 !important;
   }
 
 </style>

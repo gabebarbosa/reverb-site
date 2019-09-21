@@ -1,7 +1,7 @@
 <template>
   <div id="banner">
     <div class="text-center"> 
-      <img src="../assets/_corpo.png">
+      <img src="../assets/banner.png">
     </div>
     
   </div>
@@ -14,7 +14,5 @@ export default {
 </script>
 
 <style scoped>
-img {
-  max-width: 20%;
-}
+
 </style>
