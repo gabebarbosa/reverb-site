@@ -5,15 +5,15 @@
         <img src="../assets/_texto.png">
       </div>
       <div class="col-4 text-center">
-        <h5 class="text-color-reverb">ENTRE EM CONTATO</h5>
-        <h6 class="text-light">Fale com a gente</h6>
+        <p class="text-color-reverb">ENTRE EM CONTATO</p>
+        <p class="text-light mt-0 mb-0">Fale com a gente</p>
         <p class="text-light mt-0 mb-0">
           <i class="fa fa-envelope" aria-hidden="true"></i>
           contato.reverb.esports@gmail.com
         </p>
       </div>
       <div class="col-4 text-center">
-        <h5 class="text-color-reverb">SOCIAL</h5>
+        <p class="text-color-reverb">SOCIAL</p>
         <p class="text-light mt-0 mb-0">
           <i class="fa fa-instagram" aria-hidden="true"></i>
           @reverbesports
