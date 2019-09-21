@@ -51,4 +51,8 @@ export default {
     background-color: #030303 !important;
   }
 
+  .text-color-reverb {
+    color: #6B4ABC;
+  }
+
 </style>

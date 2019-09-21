@@ -6,20 +6,21 @@
       </div>
       <div class="col-4 text-center">
         <h5 class="text-color-reverb">ENTRE EM CONTATO</h5>
+        <h6 class="text-light">Fale com a gente</h6>
+        <p class="text-light mt-0 mb-0">
+          <i class="fa fa-envelope" aria-hidden="true"></i>
+          contato.reverb.esports@gmail.com
+        </p>
       </div>
       <div class="col-4 text-center">
         <h5 class="text-color-reverb">SOCIAL</h5>
-        <p class="font-weight-bold mt-0 mb-0">
+        <p class="text-light mt-0 mb-0">
           <i class="fa fa-instagram" aria-hidden="true"></i>
-          @REVERB
+          @reverbesports
         </p>
-        <p class="font-weight-bold mt-0 mb-0">
+        <p class="text-light mt-0 mb-0">
           <i class="fa fa-twitter" aria-hidden="true"></i>
-          @REVERB
-        </p>
-        <p class="font-weight-bold mt-0 mb-0">
-          <i class="fa fa-twitch" aria-hidden="true"></i>
-          @REVERB
+          @reverbEsports
         </p>
       </div>
     </div>
@@ -35,9 +36,5 @@ export default {
 <style scoped>
 img {
   max-width: 35%;
-}
-
-.text-color-reverb {
-  color: #6B4ABC;
 }
 </style>

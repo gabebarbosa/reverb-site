@@ -2,7 +2,7 @@
   <div>
     <div class="card m-5">
       <div class="card-body">
-        Players here.
+        <h5 class="text-color-reverb">O TIME</h5>
       </div>
     </div>
   </div>
