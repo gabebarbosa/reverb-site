@@ -1,6 +1,8 @@
 <template>
   <div id="banner">
-    <img src="../assets/banner.png">
+    <div class="text-center"> 
+      <img src="../assets/_corpo.png">
+    </div>
     
   </div>
 </template>
@@ -13,6 +15,6 @@ export default {
 
 <style scoped>
 img {
-  max-width: 100%;
+  max-width: 20%;
 }
 </style>

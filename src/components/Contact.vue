@@ -5,10 +5,10 @@
         <img src="../assets/_texto.png">
       </div>
       <div class="col-4 text-center">
-        <h4 class="text-light">ENTRE EM CONTATO</h4>
+        <h5 class="text-color-reverb">ENTRE EM CONTATO</h5>
       </div>
       <div class="col-4 text-center">
-        <h4 class="text-light">SOCIAL</h4>
+        <h5 class="text-color-reverb">SOCIAL</h5>
       </div>
     </div>
   </div>
@@ -22,6 +22,10 @@ export default {
 
 <style scoped>
 img {
-  max-width: 55%;
-};
+  max-width: 35%;
+}
+
+.text-color-reverb {
+  color: #6B4ABC;
+}
 </style>

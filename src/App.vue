@@ -1,13 +1,11 @@
 <template>
-  <div id="app">
-    <body>
-      <Banner/>
-      
-      <players/>
-      <About/>
-      
-      <Contact/>
-    </body>      
+  <div id="app" class="container">
+    <Banner/>
+    
+    <!-- <players/>
+    <About/> -->
+    
+    <Contact class="footer"/>
   </div>
 </template>
 
@@ -34,9 +32,17 @@ export default {
 @import '../node_modules/bootstrap/dist/css/bootstrap.css';
 
   body {
-      background: #020202 !important;
+      background: #f2f2f2 !important;
       background-size:cover;
-  };
+  }
 
+  .footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: #030303;
+    text-align: center;
+  }
 
 </style>
