@@ -9,6 +9,18 @@
       </div>
       <div class="col-4 text-center">
         <h5 class="text-color-reverb">SOCIAL</h5>
+        <p class="font-weight-bold mt-0 mb-0">
+          <i class="fa fa-instagram" aria-hidden="true"></i>
+          @REVERB
+        </p>
+        <p class="font-weight-bold mt-0 mb-0">
+          <i class="fa fa-twitter" aria-hidden="true"></i>
+          @REVERB
+        </p>
+        <p class="font-weight-bold mt-0 mb-0">
+          <i class="fa fa-twitch" aria-hidden="true"></i>
+          @REVERB
+        </p>
       </div>
     </div>
   </div>
