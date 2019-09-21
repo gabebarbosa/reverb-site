@@ -41,8 +41,7 @@ export default {
       .get('https://5d867f9dcd71160014aae708.mockapi.io/reverb/team')
       .then(response => (
               this.team = response.data,
-              console.log(this.team)
-
+              this.team.sort((a, b) => (a.nick > b.nick) ? 1 : -1)
               )
       )
   }
