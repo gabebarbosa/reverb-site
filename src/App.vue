@@ -1,9 +1,14 @@
 <template>
   <div id="app">
     <Banner/>
-    
-    <!-- <players/>
-    <About/> -->
+
+    <div>
+      <players/>
+    </div>
+
+    <div class="pb-5 mb-5">
+      <About/>
+    </div>
     
     <Contact class="footer"/>
   </div>
@@ -30,6 +35,7 @@ export default {
 
 <style>
 @import '../node_modules/bootstrap/dist/css/bootstrap.css';
+@import '../src/assets/font-awesome-4.7.0/css/font-awesome.min.css';
 
   body {
       background-color: #030303 !important;
