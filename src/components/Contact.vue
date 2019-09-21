@@ -5,7 +5,7 @@
         <img src="../assets/_texto.png">
       </div>
       <div class="col-4 text-center">
-        <p class="text-color-reverb">ENTRE EM CONTATO</p>
+        <p class="text-color-reverb mt-0 mb-0">ENTRE EM CONTATO</p>
         <p class="text-light mt-0 mb-0">Fale com a gente</p>
         <p class="text-light mt-0 mb-0">
           <i class="fa fa-envelope" aria-hidden="true"></i>
@@ -13,7 +13,7 @@
         </p>
       </div>
       <div class="col-4 text-center">
-        <p class="text-color-reverb">SOCIAL</p>
+        <p class="text-color-reverb mt-0 mb-0">SOCIAL</p>
         <p class="text-light mt-0 mb-0">
           <i class="fa fa-instagram" aria-hidden="true"></i>
           @reverbesports
