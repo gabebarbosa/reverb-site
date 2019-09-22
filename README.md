@@ -1,12 +1,10 @@
 # reverb-site
 Acesse o [SITE](https://reverb-esports.herokuapp.com/).
 
-
+### Setup
 ```
 npm install
 ```
-
-### Sobe o servidor
 ```
 npm run serve
 ```
