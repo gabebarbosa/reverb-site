@@ -8,15 +8,16 @@
         </div>
 
         <div class="col-md-4">
-          <h5 class="text-color-reverb">VALORES</h5>
-          -
-        </div>
-
-        <div class="col-md-4">
           <h5 class="text-color-reverb">AGILIDADE</h5>
           Os métodos ágeis tem sido usados em muitas organizações com o intuito de aumentar a produtividade, gerar resultados mais rapidamente, reduzir os riscos, etc. Na Reverb estamos adaptando a metodologia ágil SCRUM.
         </div>
-        
+
+        <div class="col-md-4 scroll">
+          <twitter>
+            <div slot="loading">loading .....</div>
+            <a class="twitter-timeline" href="https://twitter.com/reverbesports?ref_src=twsrc%5Etfw">Tweets by realDonaldTrump</a>
+          </twitter>
+        </div>        
       </div>
     </div>
   </div>
@@ -29,4 +30,8 @@ export default {
 </script>
 
 <style scoped>
+.scroll {
+    max-height: 350px;
+    overflow-y: auto;
+}
 </style>
